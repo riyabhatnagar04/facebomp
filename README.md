@@ -15,3 +15,5 @@ Robo-faces will randomly appear from different holes.
 Click on them before they disappear.
 
 Try to beat your high score! 
+You can play it here:
+https://hitandhitfacebomp.netlify.app/
